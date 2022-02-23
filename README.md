@@ -1,2 +1,2 @@
 My first readme
-My name is Badmus
+My name is Badmus Sodiq Olusola
